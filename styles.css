@@ -1,6 +1,7 @@
 body {
     background-color: #cccccc;
     font-family: Helvetica;
+    margin: 0;
 }
 h1 {
     display: flex;
@@ -9,6 +10,7 @@ h1 {
     font-size: 30pt;
     background-color: white;
     height: 80px;
+    margin: 0;
     }
 
 .header {
